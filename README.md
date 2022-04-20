@@ -1,6 +1,6 @@
 # ChatApp
-Maybe this will be my graduation project 
-I. Chat App with Android Studio and Firebase
+Maybe this will be my graduation project\n
+I. Chat App with Android Studio and Firebase\n
 II. Features:
 1. Login and Register an account
 2. Remember login
