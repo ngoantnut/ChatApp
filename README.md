@@ -1,5 +1,5 @@
 # ChatApp
-Backup graduation project 
+Maybe this will be my graduation project 
 Chat App with Android Studio and Firebase
 Features:
 1. Login and Register an account
